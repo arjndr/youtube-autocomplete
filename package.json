@@ -1,0 +1,24 @@
+{
+  "name": "youtube-autocomplete",
+  "version": "0.0.1",
+  "description": "Get autocomplete queries for YouTube without API keys!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No Tests\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arjndr/youtube-autocomplete.git"
+  },
+  "keywords": [
+    "youtube",
+    "autocomplete",
+    "autosuggest"
+  ],
+  "author": "Akash Rajendra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arjndr/youtube-autocomplete/issues"
+  },
+  "homepage": "https://github.com/arjndr/youtube-autocomplete#readme"
+}
